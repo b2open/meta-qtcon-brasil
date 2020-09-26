@@ -3,7 +3,7 @@
 # 
 MACHINE = "raspberrypi3"
 
-DL_DIR ?= "${TOPDIR}/../../dl"
+DL_DIR ?= "${TOPDIR}/../dl"
 
 SSTATE_DIR ?= "${TOPDIR}/sstate-cache"
 
